@@ -3,7 +3,7 @@
 **Weblate — это копилефтная веб-система для непрерывной локализации с открытым
 кодом. Её используют более 1150 открытых проектов и компаний из 115 стран.**
 
-# Weblate demo
+# Демо Weblate
 
 Demo project for Weblate, used for testing and to showcase some of the Weblate
 features.
