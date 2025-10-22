@@ -3,7 +3,7 @@
     <string name="auth_activity_title">确认下</string>
     <!-- Hints -->
   <string name="auth_hint_password">密码</string>
-    <string name="auth_hint_pin">PIN</string>
+    <string name="auth_hint_pin">pin</string>
     <!-- Messages -->
   <string name="auth_msg_authenticate">请验证启动 andOTP !</string>
     <string name="auth_msg_confirm_encryption">请确认您的身份验证，以生成新的加密密钥！</string>
